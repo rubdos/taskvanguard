@@ -13,6 +13,8 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 )
 
+replace github.com/tmc/langchaingo v0.1.13 => github.com/ksherpaev/langchaingo v0.0.0-20250328120002-3d4945bb7693
+
 require (
 	github.com/dlclark/regexp2 v1.10.0 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
